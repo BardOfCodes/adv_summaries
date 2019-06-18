@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="img/uap.png" height="400" title="UAP Image">
+  <img src="img/uap.png" style= "max-height:400; width: auto;" title="UAP Image">
 </p>
 
 ### Abstract
@@ -41,5 +41,5 @@ network used for generating a UAP, and each column corresponds to the network on
 rate is evaluated.
 
 <p align="center">
-  <img src="img/uap_table.png" height="400" title="UAP Table">
+  <img src="img/uap_table.png" style= "max-height:400; width: auto;" title="UAP Table">
 </p>

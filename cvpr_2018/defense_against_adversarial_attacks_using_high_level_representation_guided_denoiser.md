@@ -3,7 +3,7 @@
 #### Fangzhou Liao*, Ming Liang∗, Yinpeng Dong, Tianyu Pang, Xiaolin Hu, Jun Zhu.
 
 <p align="center">
-  <img src="img/guided_denoiser.png" height="400" title="Guided Denoiser.">
+  <img src="img/guided_denoiser.png" style= "max-height:400; width: auto;" title="Guided Denoiser.">
 </p>
 
 
@@ -40,5 +40,5 @@ The network is trained to reduce the distance between the normal and adversarial
 
 
 <p align="center">
-  <img src="img/guided_denoiser_table.png" height="400" title="Table for Guided Denoiser.">
+  <img src="img/guided_denoiser_table.png" style= "max-height:400; width: auto;" title="Table for Guided Denoiser.">
 </p>

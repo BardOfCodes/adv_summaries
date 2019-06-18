@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="img/pixel_def.png" height="400" title="Pixel Deflection">
+  <img src="img/pixel_def.png" style= "max-height:400; width: auto;" title="Pixel Deflection">
 </p>
 
 ### Abstract
@@ -47,5 +47,5 @@ A defense method that relys on only switching pixels (with a lot of complexity t
 ### Impressive Results
 
 <p align="center">
-  <img src="img/pixel_def_table.png" height="400" title="Defense by Pixel Deflection Table">
+  <img src="img/pixel_def_table.png" style= "max-height:400; width: auto;" title="Defense by Pixel Deflection Table">
 </p>

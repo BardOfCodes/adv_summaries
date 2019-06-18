@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="img/sv_uap.png" height="400" title="Defense Against UAP Image">
+  <img src="img/sv_uap.png" style= "max-height:400; width: auto;" title="Defense Against UAP Image">
 </p>
 
 ### Abstract
@@ -39,5 +39,5 @@ Showing that UAPs can be generated with as little as 64 images (though data-free
 
 
 <p align="center">
-  <img src="img/sv_uap_table.png" height="400" title="Defense Against UAP Table">
+  <img src="img/sv_uap_table.png" style= "max-height:400; width: auto;" title="Defense Against UAP Table">
 </p>

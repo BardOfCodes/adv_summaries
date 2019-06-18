@@ -3,7 +3,7 @@
 #### Konda Reddy Mopuri*, Utkarsh Ojha*, Utsav Garg and R. Venkatesh Babu
 
 <p align="center">
-  <img src="img/nag.png" height="400" title="Network for Adversary Generation">
+  <img src="img/nag.png" style= "max-height:400; width: auto;" title="Network for Adversary Generation">
 </p>
 
 ### Abstract
@@ -40,5 +40,5 @@ A genrative model for modelling the manifold of universal perturbations.
 
 
 <p align="center">
-  <img src="img/nag_table.png" height="400" title="NAG table">
+  <img src="img/nag_table.png" style= "max-height:400; width: auto;" title="NAG table">
 </p>
