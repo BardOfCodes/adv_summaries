@@ -42,5 +42,5 @@ Utilizing retrieval in the training loop itself along with local-mixup.
 **Scenario 2: White box attack**
 
 <p align="center">
-  <img src="img/img_retr_table_2.png" height="400" title="Retrieval Augmented CNN Results">
+  <img src="img/img_retr_table_2.png" style= "max-height:400; width: auto;" title="Retrieval Augmented CNN Results">
 </p>
