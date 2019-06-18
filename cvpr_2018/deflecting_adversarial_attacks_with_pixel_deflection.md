@@ -4,39 +4,48 @@
 
 
 <p align="center">
-  <img src="cvpr_2018/img/pixel_def.png" height="400" title="Defense Against UAP Image">
+  <img src="cvpr_2018/img/pixel_def.png" height="400" title="Pixel Deflection">
 </p>
 
 ### Abstract
 
-This work presents
+This work presents an algorithm which utilizes pixel wise processing to match adversarial images statistics with real image statitics. This, along with wavelet-based denoising operation provides a strong defense against adversarial attacks.
 
 ### What it does
-Presents an algorithm which allows generation of UAPs with as little as 64 images.
+
+Provides a defense against adversarial attacks, which relys on 'pixel deflection' or changing pixels to nearby pixels to provide defense.
 
 ### How is it done
-The goal is to push apart features from their original configuration. For that, we find the
-`epsilon` which maximizes the product `Jacobian * epsilon`. This `epsilon` is called the `(p,q)`
-singular vector of the `jacobian`.
 
-This is further executed using an iterative process which involves the `math-vec` function (must read!)
-with the proposed power method.
+1) Get the Roboust Activation Map (which is a proxy of object localization).
+
+2) uniformly sample pixels from the image, with probability of changing inversely proportional to the probability of containing an object.
+
+3) Denoise the image using discrete Wavelet Transform.
 
 
 ### Chief Novelty
-Showing that UAPs can be generated with as little as 64 images (though data-free approaches also exists.)
+
+A defense method that relys on only switching pixels (with a lot of complexity though). 
 
 ### Other Interesting Analysis
 
-* Shows some positive correlation between the singular values found and the fooling rate (across networks, rather than across layers).
+* Objects are localized using weakly supervised object localization method.
 
-**Drawbacks**: No comparison to using simple gradient descent on the objective (instead of using `(p,q)`-singular value based update).
+* For the Discrete Wavelet Transform based denoising, they use Soft Thresholding, and other techniques for adaptive thresholding as well.
 
 
+**Drawbacks**: 
+
+* The notion that image is flipped to a nearby class is used which is not true for all attacks. (Least Likely attacks etc.)
+
+* Experiments would have been even more interesting if we had highly `L2` normed versions as well.
+
+* "These facts render top-5 accuracy an unsuitable metric for measuring the efficacy of a defense." - Not really a great arguement as at low `L2`, 
+  the tested attacks would have lesser damage w.r.t. top-5 accuracy as well.
+ 
 ### Impressive Results
 
-
-
 <p align="center">
-  <img src="cvpr_2017/img/pixel_def_table.png" height="400" title="Defense Against UAP Table">
+  <img src="cvpr_2017/img/pixel_def_table.png" height="400" title="Defense by Pixel Deflection Table">
 </p>
