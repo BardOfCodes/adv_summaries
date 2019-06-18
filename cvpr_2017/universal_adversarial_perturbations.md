@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="cvpr_2017/img/uap.png" height="400" title="UAP Image">
+  <img src="img/uap.png" height="400" title="UAP Image">
 </p>
 
 ### Abstract
@@ -41,5 +41,5 @@ network used for generating a UAP, and each column corresponds to the network on
 rate is evaluated.
 
 <p align="center">
-  <img src="cvpr_2017/img/uap_table.png" height="400" title="UAP Table">
+  <img src="img/uap_table.png" height="400" title="UAP Table">
 </p>

@@ -3,7 +3,7 @@
 #### Yan Xu∗, Baoyuan Wu∗, Fumin Shen, Yanbo Fan, Yong Zhang, Heng Tao Shen, Wei Liu
 
 <p align="center">
-  <img src="cvpr_2018/img/captioning.png" height="400" title="Attacking Image Captioning">
+  <img src="img/captioning.png" height="400" title="Attacking Image Captioning">
 </p>
 
 ### Abstract
@@ -37,5 +37,5 @@ The authors show untargetted attacks as well, where seeing the grammar fail is v
 Imp Metric: SR stands for success rate of the attack.
 
 <p align="center">
-  <img src="cvpr_2018/img/captioning_table.png" height="400" title="Attacking Image Captioning Results">
+  <img src="img/captioning_table.png" height="400" title="Attacking Image Captioning Results">
 </p>

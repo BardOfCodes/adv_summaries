@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="cvpr_2018/img/d_uap.png" height="400" title="Defense Against UAP Image">
+  <img src="img/d_uap.png" height="400" title="Defense Against UAP Image">
 </p>
 
 ### Abstract
@@ -44,5 +44,5 @@ The Proposed Metrics using different attacking strategies on GoogleNet Network f
 Kindly read the paper for more information!
 
 <p align="center">
-  <img src="cvpr_2017/img/d_uap_table.png" height="400" title="Defense Against UAP Table">
+  <img src="img/d_uap_table.png" height="400" title="Defense Against UAP Table">
 </p>

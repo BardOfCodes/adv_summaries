@@ -3,7 +3,7 @@
 #### Ayush Jaiswal, Yue Wu, Wael AbdAlmageed, Iacopo Masi, Premkumar Natarajan
 
 <p align="center">
-  <img src="cvpr_2019/img/aird.png" height="400" title="AIRD">
+  <img src="img/aird.png" height="400" title="AIRD">
 </p>
 
 ### Abstract
@@ -37,5 +37,5 @@ Proposal of an interesting method to detect image repurposing, which is a import
 
 
 <p align="center">
-  <img src="cvpr_2018/img/aird_results.png" height="400" title="AIRD Results">
+  <img src="img/aird_results.png" height="400" title="AIRD Results">
 </p>

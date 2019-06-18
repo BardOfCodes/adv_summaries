@@ -3,7 +3,7 @@
 #### Abhimanyu Dubey, Laurens van der Maaten, Zeki Yalniz, Yixuan Li, and Dhruv Mahajan
 
 <p align="center">
-  <img src="cvpr_2018/img/web_search.png" height="400" title="Web Search Based Defense">
+  <img src="img/web_search.png" height="400" title="Web Search Based Defense">
 </p>
 
 ### Abstract
@@ -42,5 +42,5 @@ Introducing massive database search as a defense mechanism.
 Gray and Black box attack on Resnet 50 at different strenghts and different nearest-neighbor pool.
 
 <p align="center">
-  <img src="cvpr_2018/img/web_search_table.png" height="400" title="Web Search Based Defense">
+  <img src="img/web_search_table.png" height="400" title="Web Search Based Defense">
 </p>

@@ -3,7 +3,7 @@
 #### Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li
 
 <p align="center">
-  <img src="cvpr_2018/img/mifgsm.png" height="400" title="MI-FGSM">
+  <img src="img/mifgsm.png" height="400" title="MI-FGSM">
 </p>
 
 ### Abstract
@@ -33,6 +33,6 @@ Show that black box approach is working even for models which have undergone ens
 
 
 <p align="center">
-  <img src="cvpr_2018/img/mifgsm_table.png" height="400" title="MIFGSM Table">
+  <img src="img/mifgsm_table.png" height="400" title="MIFGSM Table">
 </p>
 

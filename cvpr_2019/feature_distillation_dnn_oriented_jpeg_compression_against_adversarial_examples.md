@@ -3,7 +3,7 @@
 #### Zihao Liu, Qi Liu, Tao Liu, Nuo Xu, Xue Lin, Yanzhi Wang, Wujie Wen
 
 <p align="center">
-  <img src="cvpr_2018/img/guided_denoiser.png" height="400" title="Guided Denoiser">
+  <img src="img/guided_denoiser.png" height="400" title="Guided Denoiser">
 </p>
 
 ### Abstract
@@ -28,5 +28,5 @@ Based on JPEG compression, the authors propose a denoising feature-distillation 
 
 
 <p align="center">
-  <img src="cvpr_2018/img/phy_attack_results.png" height="400" title="Robust Physical World Attack Results">
+  <img src="img/phy_attack_results.png" height="400" title="Robust Physical World Attack Results">
 </p>

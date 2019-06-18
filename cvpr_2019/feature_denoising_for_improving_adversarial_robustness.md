@@ -3,11 +3,11 @@
 #### Cihang Xie, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He
 
 <p align="center">
-  <img src="cvpr_2018/img/guided_denoiser.png" height="400" title="Guided Denoiser">
+  <img src="img/guided_denoiser.png" height="400" title="Guided Denoiser">
 </p>
 
 ### Abstract
-
+This work introduces layers which perform feature denoising using filters such as non-local means, which when combined with adversarial training, substanstially improves state-of-the-art in white box as well as black-box attack scheme!.
 ### What it does
 
 ### How is it done
@@ -26,5 +26,5 @@
 
 
 <p align="center">
-  <img src="cvpr_2018/img/phy_attack_results.png" height="400" title="Robust Physical World Attack Results">
+  <img src="img/phy_attack_results.png" height="400" title="Robust Physical World Attack Results">
 </p>

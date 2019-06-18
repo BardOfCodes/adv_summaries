@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="cvpr_2018/img/gap.png" height="400" title="Generative Adv Pert Image">
+  <img src="img/gap.png" height="400" title="Generative Adv Pert Image">
 </p>
 
 ### Abstract
@@ -39,5 +39,5 @@ simpler methods such as `iFGSM`.
 The results on attacking a segmentation network.
 
 <p align="center">
-  <img src="cvpr_2018/img/gap_result.png" height="400" title="Generative Adv Pert Results">
+  <img src="img/gap_result.png" height="400" title="Generative Adv Pert Results">
 </p>

@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="cvpr_2018/img/robust_segmentation.png" height="400" title="Robust Segmentation">
+  <img src="img/robust_segmentation.png" height="400" title="Robust Segmentation">
 </p>
 
 ### Abstract
@@ -43,5 +43,5 @@ Presents first rigorous evaluation of the robustness of semantic segmentation mo
 The results on attacking a different segmentation networks:
 
 <p align="center">
-  <img src="cvpr_2018/img/robust_segmentation_results.png" height="400" title="Robust segmentation Results">
+  <img src="img/robust_segmentation_results.png" height="400" title="Robust segmentation Results">
 </p>

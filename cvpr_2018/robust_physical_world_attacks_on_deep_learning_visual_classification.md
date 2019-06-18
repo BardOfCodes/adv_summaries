@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="cvpr_2018/img/phy_attack.png" height="400" title="Roboust Physical World Attack">
+  <img src="img/phy_attack.png" height="400" title="Roboust Physical World Attack">
 </p>
 
 ### Abstract
@@ -38,5 +38,5 @@ They show the attack for inception v3 trained on imagenet for two classes: Micro
 
 
 <p align="center">
-  <img src="cvpr_2018/img/phy_attack_results.png" height="400" title="Roboust Physical World Attack Results">
+  <img src="img/phy_attack_results.png" height="400" title="Roboust Physical World Attack Results">
 </p>
