@@ -3,7 +3,7 @@
 #### Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang, Jun Zhu
 
 <p align="center">
-  <img src="img/face_recog.png" height="400" title="BB Attack on Face Recognition">
+  <img src="img/face_recog.png" style= "max-height:400; width: auto;" title="BB Attack on Face Recognition">
 </p>
 
 ### Abstract
@@ -42,7 +42,7 @@ Improving Black Box attack for classification and utilizing it to attack a real 
 ### Impressive Results
 
 <p align="center">
-  <img src="img/face_recog_table.png" height="400" title="BB Attack on Face Recognition Results">
+  <img src="img/face_recog_table.png" style= "max-height:400; width: auto;" title="BB Attack on Face Recognition Results">
 </p>
 
 **Note**: I am not well aware of the optimization methods utilized by this paper. Hopefully there are no mistakes in the interpretation! 

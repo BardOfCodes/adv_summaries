@@ -3,7 +3,7 @@
 #### Simen Thys*, Wiebe Van Ranst*, Toon Goedeme´
 
 <p align="center">
-  <img src="img/obj_det.png" height="400" title="Attacking Object Detection">
+  <img src="img/obj_det.png" style= "max-height:400; width: auto;" title="Attacking Object Detection">
 </p>
 
 ### Abstract
@@ -48,5 +48,5 @@ Would be really amazing to see this happen! =D
 ### Impressive Results
 
 <p align="center">
-  <img src="img/obj_det_result.png" height="400" title="Attacking Object Detection Results">
+  <img src="img/obj_det_result.png" style= "max-height:400; width: auto;" title="Attacking Object Detection Results">
 </p>

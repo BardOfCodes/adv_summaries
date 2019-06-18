@@ -3,7 +3,7 @@
 #### Cihang Xie, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He
 
 <p align="center">
-  <img src="img/guided_denoiser.png" height="400" title="Guided Denoiser">
+  <img src="img/guided_denoiser.png" style= "max-height:400; width: auto;" title="Guided Denoiser">
 </p>
 
 ### Abstract
@@ -26,5 +26,5 @@ This work introduces layers which perform feature denoising using filters such a
 
 
 <p align="center">
-  <img src="img/phy_attack_results.png" height="400" title="Robust Physical World Attack Results">
+  <img src="img/phy_attack_results.png" style= "max-height:400; width: auto;" title="Robust Physical World Attack Results">
 </p>
