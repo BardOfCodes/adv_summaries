@@ -7,7 +7,8 @@
 </p>
 
 ### Abstract
-This work introduces layers which perform feature denoising using filters such as non-local means, which when combined with adversarial training, substanstially improves state-of-the-art in white box as well as black-box attack scheme!.
+This work introduces layers which perform feature denoising using filters such as non-local means, which when combined 
+with adversarial training, substantially improves state-of-the-art in white box as well as black-box attack scheme!.
 ### What it does
 
 ### How is it done
