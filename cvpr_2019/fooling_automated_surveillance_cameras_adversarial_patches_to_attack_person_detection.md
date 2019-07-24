@@ -8,15 +8,18 @@
 
 ### Abstract
 
-This work proposes an optimization to yield a printable patch which when used causes object detection to fail. The proposed optimization enables crafting such perturbations for classes with high intra-class variance, such as humans.
+This work proposes an optimization to yield a printable patch which when used causes object detection to fail. The
+proposed optimization enables crafting such perturbations for classes with high intra-class variance, such as humans.
 
 ### What it does
 
-This work proposes an optimization to yield a printable patch, which when stuck to a target class (at a specific location) disable the object detection network from detecting the object.
+This work proposes an optimization to yield a printable patch, which when stuck to a target class (at a specific
+location) disable the object detection network from detecting the object.
 
 ### How is it done
 
-Firstly the patch is applied with various tranformations such as rotations scaling etc to ground truth bounded boxes of object instances. 
+Firstly the patch is applied with various tranformations such as rotations scaling etc to ground truth bounded boxes of
+object instances. 
 
 These modified images are then fed to the target network to yield low object score for the target objects. 
 
@@ -33,10 +36,11 @@ Generating a single patch which can cause failure of human detection for all hum
 * The paper concludes with: 
 
 ```
-We believe that, if we combine this technique with a sophisticated clothing simulation, we can design a T-shirt print that can make a person virtually invisible for automatic surveillance cameras (using the YOLO detector).
+We believe that, if we combine this technique with a sophisticated clothing simulation, we can design a T-shirt print 
+that can make a person virtually invisible for automatic surveillance cameras (using the YOLO detector).
 ```
 
-Would be really amazing to see this happen! =D
+Would be really amazing to see this happen!
 
 
 **Drawback** :  

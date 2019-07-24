@@ -9,15 +9,18 @@
 
 ### Abstract
 
-This work presents a rigorous analysis of adversarial attacks on segmentation networks, and provides insights based on the analysis.
+This work presents a rigorous analysis of adversarial attacks on segmentation networks, and provides insights based on
+the analysis.
 
 ### What it does
 
-Benchmarks adversarial attacks on various segmentation models and datasets. Further provide some hypothesis based on the experiments.
+Benchmarks adversarial attacks on various segmentation models and datasets. Further provide some hypothesis based on
+the experiments.
  
 ### How is it done
 
-By conducting extensive evaluation of various segmentation across different attacks with different configurations. It is really massive evaluation!
+By conducting extensive evaluation of various segmentation across different attacks with different configurations. It
+is really massive evaluation!
 
 ### Chief Novelty
 
@@ -29,7 +32,8 @@ Presents first rigorous evaluation of the robustness of semantic segmentation mo
 
 * Multi-scale processing, frequently used in segmentation, also provides stronger defense.
 
-* Mean-field inference for Dense CRFs, which increases the confidence of predictions confers robustness to **untargeted attacks**.
+* Mean-field inference for Dense CRFs, which increases the confidence of predictions confers robustness to 
+**untargeted attacks**.
 
 **Drawback** : 
 

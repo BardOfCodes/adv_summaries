@@ -8,15 +8,20 @@
 
 ### Abstract
 
-This work proposes a retrieval augmented CNN, which mitigates the adverse effect of off-manifold adversaries. On manifold adversaries are handled by utilizing "Local-Mixup" which encourages linear behaviour on the manifold.
+This work proposes a retrieval augmented CNN, which mitigates the adverse effect of off-manifold adversaries. On
+manifold adversaries are handled by utilizing "Local-Mixup" which encourages linear behaviour on the manifold.
 
 ### What it does
 
-The network performs a nearest neighbor search in forward pass. The found neighbors are then utilized to obtain the 'on-manifold' projection of the adversarial sample. This 'on-manifold' projection is claimed to be more robust to adversarial perturbations.
+The network performs a nearest neighbor search in forward pass. The found neighbors are then utilized to obtain the
+'on-manifold' projection of the adversarial sample. This 'on-manifold' projection is claimed to be more robust to
+adversarial perturbations.
 
 ### How is it done
 
-The network is trained with the retireval system in the loop. At each forward pass, the nearest neighors are found at a given layer, weighted combination of which is then utilized as a 'on-manifold' projection of the adversarial sample features.
+The network is trained with the retireval system in the loop. At each forward pass, the nearest neighors are found at a
+given layer, weighted combination of which is then utilized as a 'on-manifold' projection of the adversarial sample
+features.
 
 Further, local mixup is utilized: Linear interpolation of features should result in Linear interpolation of output probs.
 

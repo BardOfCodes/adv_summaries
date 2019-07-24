@@ -8,7 +8,8 @@
 
 ### Abstract
 
-This work introduces momentum based optimization for adversary generation, which help to craft effective black-box adversaries. This attack won the first place in NIPs 2017 Targetted/Non-Targetted Adversarial Attack contest.
+This work introduces momentum based optimization for adversary generation, which help to craft effective black-box
+adversaries. This attack won the first place in NIPs 2017 Targetted/Non-Targetted Adversarial Attack contest.
 
 ### What it does
 
@@ -22,7 +23,8 @@ Further ensemble approaches for crafting adversarial perturbations are utilized.
 
 ### Chief Novelty
 
-Using Momentum for adversary generation optimization and using an ensemble of models to increase the potency for black-box attack.
+Using Momentum for adversary generation optimization and using an ensemble of models to increase the potency for
+black-box attack.
 
 ### Other Interesting Analysis
 

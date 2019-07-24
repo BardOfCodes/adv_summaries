@@ -9,17 +9,16 @@
 
 ### Abstract
 
-This work introduces a Generative approach for crafting image dependant and agnostic perturbations
-which can be extended to different tasks and for the first time, enable targeted UAPs.
+This work introduces a Generative approach for crafting image dependant and agnostic perturbations which can be 
+extended to different tasks and for the first time, enable targeted UAPs.
 
 ### What it does
-Provides an autoencoder-like architecture which outputs perturbations (conditioned on the input image or noise)
-which are adversarial to the network(s) it was trained on.
+Provides an autoencoder-like architecture which outputs perturbations (conditioned on the input image or noise) which
+ are adversarial to the network(s) it was trained on.
  
 ### How is it done
-The network is trained with similar loss formulation as typical adversarial attacks such as `FGSM`/`PGD`,
-with the exception that the network learns to create such perturbations rather than perform 
-gradient update to generate them. 
+The network is trained with similar loss formulation as typical adversarial attacks such as `FGSM`/`PGD`, with the 
+exception that the network learns to create such perturbations rather than perform gradient update to generate them. 
 
 ### Chief Novelty
 Providing a generalized generative framework for targeted UAPs.

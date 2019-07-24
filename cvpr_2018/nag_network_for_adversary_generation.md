@@ -7,13 +7,17 @@
 </p>
 
 ### Abstract
-The authors propose using a GAN based approach to learn the manifold of image-agnoistic adversarial perturbations. The network is trained to produce strong perturbations, which exhibit wide variety and show cross model generalizability.
+The authors propose using a GAN based approach to learn the manifold of image-agnoistic adversarial perturbations. The
+network is trained to produce strong perturbations, which exhibit wide variety and show cross model generalizability.
 
 ### What it does
 Learns a Generative model which, given a latent space sample, returns a Universal adversarial perturbation.
 
 ### How is it done
-The Generator(with output clampled to the required range) is trained to generate noise. This noise is then added to images from the normal image manifold and passed through a target classification model. The generator is trained to increase the loss at the output of the target classification model which the capability of only affecting the generated noise.
+The Generator(with output clampled to the required range) is trained to generate noise. This noise is then added to
+images from the normal image manifold and passed through a target classification model. The generator is trained to
+increase the loss at the output of the target classification model which the capability of only affecting the generated
+noise.
 
 Further, to enhance diversity among the samples generated, a diversity objective is introduced. 
 

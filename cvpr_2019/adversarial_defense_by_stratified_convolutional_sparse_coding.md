@@ -8,7 +8,9 @@
 
 ### Abstract
 
-The authors propose an approach to denoise the image based on convolutional sparse coding. They utilize a novel sparse transformation layer to project adversarial images into quasi-natural image space before feeding it to the first layer of the target CNN, achiving state-of-the-art defense against attacks from multiple methods and scales.  
+The authors propose an approach to denoise the image based on convolutional sparse coding. They utilize a novel sparse 
+transformation layer to project adversarial images into quasi-natural image space before feeding it to the first layer 
+of the target CNN, achiving state-of-the-art defense against attacks from multiple methods and scales.  
 
 ### What it does
 
@@ -28,7 +30,8 @@ Given a image, it is 'denoised' using learnt sparse convolutional coding before 
 
 ### Chief Novelty
 
-This method is attack-agnostic, and scales to higher noise than other attack-agnostic methods by using a Sparse Transformer Layer.
+This method is attack-agnostic, and scales to higher noise than other attack-agnostic methods by using a Sparse 
+Transformer Layer.
 
 ### Other Interesting Analysis
 
@@ -40,7 +43,8 @@ This method is attack-agnostic, and scales to higher noise than other attack-agn
 
 * What if the attack is directed towards ensuring it ends up in wrong strata from the DAE? 
 
-* It is necessary to train the network on the "quasi-natural image space". Effective Denoising to Image space (which does not exist currently) would allow using the defense without retraining.
+* It is necessary to train the network on the "quasi-natural image space". Effective Denoising to Image space (which 
+does not exist currently) would allow using the defense without retraining.
 
 * A plot between accuracy and the number of clusters in DAE would be super interesting!
 

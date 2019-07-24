@@ -8,7 +8,8 @@
 
 ### Abstract
 
-Based on JPEG compression, the authors propose a denoising feature-distillation method which significantly improves defense against various attacks, without retraining the network.
+Based on JPEG compression, the authors propose a denoising feature-distillation method which significantly improves
+defense against various attacks, without retraining the network.
 
 ### What it does
 

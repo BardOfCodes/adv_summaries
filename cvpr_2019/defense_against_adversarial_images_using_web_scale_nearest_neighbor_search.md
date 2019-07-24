@@ -7,15 +7,18 @@
 </p>
 
 ### Abstract
-The authors propose utilizing nearest-neighbor retrieval for 're-projecting' adversarial sample into natural image space. Further, they propose attack methods to break such a retrieval based defense.
+The authors propose utilizing nearest-neighbor retrieval for 're-projecting' adversarial sample into natural image
+space. Further, they propose attack methods to break such a retrieval based defense.
 
 ### What it does
 
-The method utilizes a massive image dataset (to perform retrieval) which is used as a defense against adversarial samples.
+The method utilizes a massive image dataset (to perform retrieval) which is used as a defense against adversarial
+samples.
 
 ### How is it done
 
-Given an input image, we perform Nearest neighbor search for the image features (intermediate representations at some layer) in the image dataset. 
+Given an input image, we perform Nearest neighbor search for the image features (intermediate representations at
+some layer) in the image dataset. 
 
 For each of the recovered images we obtain the target network's output. 
 
