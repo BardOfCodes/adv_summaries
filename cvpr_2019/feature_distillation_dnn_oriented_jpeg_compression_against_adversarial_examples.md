@@ -39,8 +39,6 @@ have to be constrained by that.
 * Mentions that JPEG compression is integrated in the sensor components itself!
 
 * DCT transform is linear operation.
-**Drawback** :  
-
 
 ### Impressive Results
 
