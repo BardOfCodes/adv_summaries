@@ -3,7 +3,7 @@
 #### Xiaojun Jia, Xingxing Wei, Xiaochun Cao, Hassan Foroosh
 
 <p align="center">
-  <img src="cvpr_2018/img/comdefend.png" height="400" title="ComDefend">
+  <img src="cvpr_2018/img/comdefend.png" height="..." title="ComDefend">
 </p>
 
 ### Abstract

@@ -3,7 +3,7 @@
 #### Abhimanyu Dubey, Laurens van der Maaten, Zeki Yalniz, Yixuan Li, and Dhruv Mahajan
 
 <p align="center">
-  <img src="img/web_search.png" style= "max-height:400; width: auto;" title="Web Search Based Defense">
+  <img src="img/web_search.png" style= "..." title="Web Search Based Defense">
 </p>
 
 ### Abstract
