@@ -3,7 +3,7 @@
 #### Xiaojun Jia, Xingxing Wei, Xiaochun Cao, Hassan Foroosh
 
 <p align="center">
-  <img src="cvpr_2018/img/comdefend.png" height="..." title="ComDefend">
+  <img src="img/comdefend.png" height="..." title="ComDefend">
 </p>
 
 ### Abstract
@@ -38,5 +38,5 @@ data efficient adversarially denoising autoencoder.
 
 
 <p align="center">
-  <img src="cvpr_2018/img/comdefend_table.png" height="400" title="Comdefend Table">
+  <img src="img/comdefend_table.png" height="400" title="Comdefend Table">
 </p>
